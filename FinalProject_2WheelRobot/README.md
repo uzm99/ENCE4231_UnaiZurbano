@@ -1,8 +1,5 @@
 # 2-Wheel Balance Robot — Firmware & Control
 
-![Assembled robot](IMG/robot_assembled.jpeg)
-<!-- TODO: hero photo of the finished 2-wheel robot (rename to match your file) -->
-
 A self-balancing two-wheel robot built on the EngrEDU Embedded Systems platform
 (STM32F401). This report covers the **firmware and control** side: taking the
 working 3-wheel rover and turning it into an inverted-pendulum robot that balances
